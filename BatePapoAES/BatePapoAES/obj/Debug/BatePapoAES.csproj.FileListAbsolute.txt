@@ -1,0 +1,9 @@
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\bin\Debug\BatePapoAES.exe.config
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\bin\Debug\BatePapoAES.exe
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\bin\Debug\BatePapoAES.pdb
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.csprojResolveAssemblyReference.cache
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.Form1.resources
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.Properties.Resources.resources
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.csproj.GenerateResource.Cache
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.exe
+c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.pdb
