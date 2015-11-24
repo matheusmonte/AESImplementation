@@ -7,3 +7,6 @@ c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\ob
 c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.csproj.GenerateResource.Cache
 c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.exe
 c:\users\mmonte\documents\visual studio 2015\Projects\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.pdb
+C:\workspace\AESImplementation\BatePapoAES\BatePapoAES\bin\Debug\BatePapoAES.exe.config
+C:\workspace\AESImplementation\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.exe
+C:\workspace\AESImplementation\BatePapoAES\BatePapoAES\obj\Debug\BatePapoAES.pdb
